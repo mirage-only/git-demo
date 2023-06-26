@@ -2,21 +2,3 @@ testing quastion
 we just do some opinion, that it is sond, shhh...)
 all i neeeeeed
 it's your loooove tonight!
-
-
-remember, remember!
-Please, pay attention, please!
-
-!/
-
-the end of list!
-----------------------
-
-
-now we are testing branching in this line.
-
-
-adding commit in a main branch
-
-
-TDME!
